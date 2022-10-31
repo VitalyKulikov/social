@@ -1,0 +1,8 @@
+.content{
+display: grid;
+border: 30px;
+border-color: white;
+text-align: center;
+grid-column: auto;
+grid-column: auto;
+}

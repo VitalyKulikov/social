@@ -1,0 +1,7 @@
+.navbar{
+    display: grid;
+    border: 30px;
+    text-align: center;
+    grid-column: 1/2;
+    grid-row: 3/4;
+}

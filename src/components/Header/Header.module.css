@@ -1,0 +1,25 @@
+.header{
+    background-color: #006b6c;
+    display: grid;
+    grid-column: span 4;
+
+}
+
+.header a{
+    display: inline;
+    position: right;
+    color: #fff;
+    margin:10px 10px;
+    text-align: center;
+
+}
+
+.header .botoom {
+    display: inline;
+    position: right;
+    color:#fff;
+    padding: 3px 10px 3px 10px;
+    background-color: #c31952;
+    border-radius: 20px;
+    width: 60px;
+}
